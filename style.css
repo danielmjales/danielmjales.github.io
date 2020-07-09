@@ -84,6 +84,7 @@ li {
 .presentation img {
   width: 40rem;
   float: right;
+  border-radius: 50%;
 }
 
 .presentation .description {
@@ -95,4 +96,41 @@ li {
 
 .skills {
   clear: both;
+  background-color: #f1faee;
+  color: black;
+  text-align: center;
+  justify-content: center;
+  font-size: 3rem;
+  padding-top: 5rem;
+}
+
+.skills li {
+  text-align: left;
+}
+
+.skills .skill--box {
+  display: flex;
+  justify-content: space-evenly;
+  clear: both;
+  margin-top: 5rem;
+}
+
+.skills .skill--box .skill--box--svg--alt {
+  float: right;
+}
+
+.skills .skill--box .skill--box--content--alt {
+  float: left;
+  width: 50%;
+  align-self: center;
+}
+
+.skills .skill--box .skill--box--svg {
+  float: left;
+}
+
+.skills .skill--box .skill--box--content {
+  float: right;
+  width: 50%;
+  align-self: center;
 }

@@ -1,0 +1,16 @@
+<svg width="200" height="150" viewBox="0 0 391 297" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="computer">
+<rect id="Rectangle 4" x="135.743" y="237.796" width="113.174" height="58.2225" fill="black" stroke="white" stroke-width="1.96255"/>
+<rect id="Rectangle 3" x="7.63546" y="6.63546" width="381.39" height="263.637" fill="black" stroke="#FBFBFB" stroke-width="3.27092" stroke-linejoin="bevel"/>
+<line id="Line 1" x1="202.14" y1="42.9246" x2="346.06" y2="41.5408" stroke="#49A0FB" stroke-width="0.654185"/>
+<line id="Line 4" x1="201.997" y1="75.0567" x2="345.917" y2="73.6729" stroke="#49A0FB" stroke-width="0.654185"/>
+<line id="Line 5" x1="202.14" y1="42.9249" x2="346.06" y2="41.541" stroke="#49A0FB" stroke-width="0.654185"/>
+<line id="Line 6" x1="201.997" y1="75.0567" x2="345.917" y2="73.6729" stroke="#49A0FB" stroke-width="0.654185"/>
+<line id="Line 7" x1="201.14" y1="107.057" x2="345.06" y2="105.673" stroke="#49A0FB" stroke-width="0.654185"/>
+<line id="Line 8" x1="200.997" y1="139.189" x2="344.917" y2="137.805" stroke="#49A0FB" stroke-width="0.654185"/>
+<line id="Line 9" x1="201.003" y1="171.057" x2="261.004" y2="171.626" stroke="#49A0FB" stroke-width="0.654185"/>
+<rect id="Rectangle 28" x="41.3873" y="43.3873" width="85.2113" height="109.225" fill="black" stroke="white" stroke-width="0.774648"/>
+<circle id="Ellipse 71" cx="84" cy="199" r="30.5" fill="black" stroke="white"/>
+<path id="Arrow 1" d="M83.6498 202.357C83.8468 202.55 84.1634 202.547 84.3568 202.35L87.5089 199.139C87.7024 198.942 87.6994 198.625 87.5023 198.432C87.3053 198.238 86.9887 198.241 86.7953 198.438L83.9934 201.293L81.1387 198.491C80.9416 198.298 80.625 198.301 80.4316 198.498C80.2382 198.695 80.2411 199.011 80.4382 199.205L83.6498 202.357ZM82.5 95.0047L83.5 202.005L84.5 201.995L83.5 94.9953L82.5 95.0047Z" fill="white"/>
+</g>
+</svg>
