@@ -69,8 +69,14 @@ li {
 }
 
 .presentation {
-  background-color: #1d3557;
+  background-image: url('mountains.svg'), linear-gradient(160deg, rgba(0, 0, 0, 0.2) 2%, rgba(0, 0, 0, 0.93) 10%);
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 50vh;
+  width: 100vw;
   padding: 8rem 0rem;
+  color: white;
   
 }
 
@@ -133,4 +139,20 @@ li {
   float: right;
   width: 50%;
   align-self: center;
+}
+
+
+footer {
+  background-color: black;
+  text-align: center;
+  padding: 3rem;
+
+}
+
+.contact{
+  background-color: #457b9d;
+  color: white;
+  padding: .9rem 1.2rem;
+  margin-top: 1rem;
+  
 }
