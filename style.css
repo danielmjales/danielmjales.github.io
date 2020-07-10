@@ -102,16 +102,17 @@ li {
 }
 
 .skills {
-  clear: both;
   background-color: #f1faee;
   color: black;
   text-align: center;
-  justify-content: center;
+  justify-content: space-around;
   font-size: 3rem;
   padding-top: 5rem;
+  display: flex;
+  
 }
 
-.skills li {
+/* .skills li {
   text-align: left;
 }
 
@@ -140,7 +141,7 @@ li {
   float: right;
   width: 50%;
   align-self: center;
-}
+} */
 
 
 footer {
@@ -155,5 +156,13 @@ footer {
   color: white;
   padding: .9rem 1.2rem;
   margin-top: 1rem;
+  
+}
+
+.card {
+  width: 30rem;
+  height: 35rem;
+  border: .2rem solid rgba(0, 0, 0, 0.97);
+
   
 }
